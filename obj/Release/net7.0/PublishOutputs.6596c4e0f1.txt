@@ -1,0 +1,5 @@
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/publish/CheckChunk
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/publish/CheckChunk.dll
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/publish/CheckChunk.deps.json
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/publish/CheckChunk.runtimeconfig.json
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/publish/CheckChunk.pdb

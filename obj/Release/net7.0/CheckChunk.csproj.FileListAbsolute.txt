@@ -1,0 +1,15 @@
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/CheckChunk
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/CheckChunk.deps.json
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/CheckChunk.runtimeconfig.json
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/CheckChunk.dll
+/Users/sebastien/_Git/Dotnet/CheckChunk/bin/Release/net7.0/CheckChunk.pdb
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.csproj.AssemblyReference.cache
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.AssemblyInfoInputs.cache
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.AssemblyInfo.cs
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.csproj.CoreCompileInputs.cache
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.dll
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/refint/CheckChunk.dll
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.pdb
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/CheckChunk.genruntimeconfig.cache
+/Users/sebastien/_Git/Dotnet/CheckChunk/obj/Release/net7.0/ref/CheckChunk.dll
