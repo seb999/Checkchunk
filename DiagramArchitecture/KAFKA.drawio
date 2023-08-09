@@ -1,0 +1,80 @@
+<mxfile modified="2023-08-09T15:13:44.734Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="GurRiwiOOFrXwsqwISGa" version="21.6.7" type="github">
+  <diagram id="1JJ-UvxjRfw-XplDersZ" name="Page-1">
+    <mxGraphModel dx="954" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-1" target="MUZQk2IL9fI0bO0C1k1g-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="170" />
+              <mxPoint x="540" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_generic;" parent="1" vertex="1">
+          <mxGeometry x="474" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-2" target="MUZQk2IL9fI0bO0C1k1g-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="170" />
+              <mxPoint x="520" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-2" target="MUZQk2IL9fI0bO0C1k1g-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-2" target="MUZQk2IL9fI0bO0C1k1g-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="370" />
+              <mxPoint x="557" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-2" target="MUZQk2IL9fI0bO0C1k1g-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;" parent="1" vertex="1">
+          <mxGeometry x="513.5" y="230" width="93" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-4" target="MUZQk2IL9fI0bO0C1k1g-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" parent="1" vertex="1">
+          <mxGeometry x="380" y="490" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-5" target="MUZQk2IL9fI0bO0C1k1g-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" parent="1" vertex="1">
+          <mxGeometry x="531" y="490" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MUZQk2IL9fI0bO0C1k1g-6" target="MUZQk2IL9fI0bO0C1k1g-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUZQk2IL9fI0bO0C1k1g-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" parent="1" vertex="1">
+          <mxGeometry x="680" y="490" width="53" height="56" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
